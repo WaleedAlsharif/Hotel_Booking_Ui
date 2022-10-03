@@ -22,12 +22,7 @@ class HotPakageItem extends StatelessWidget {
       "imageurl": "asset/images/derick-mckinney-PhA2QbE7h6c-unsplash.png",
       "country": "Brasil"
     },
-    {
-      "name": "Sultans dine",
-      "imageurl":
-          "asset/images/ialicante-mediterranean-homes-8_V45fGyWz4-unsplash.png",
-      "country": "Roma"
-    },
+
   ];
   @override
   Widget build(BuildContext context) {
